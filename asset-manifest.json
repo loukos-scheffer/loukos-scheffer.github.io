@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.80292ecf.chunk.css",
+    "main.js": "/static/js/main.e060898a.chunk.js",
+    "main.js.map": "/static/js/main.e060898a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.077807ea.js",
+    "runtime-main.js.map": "/static/js/runtime-main.077807ea.js.map",
+    "static/js/2.124d676c.chunk.js": "/static/js/2.124d676c.chunk.js",
+    "static/js/2.124d676c.chunk.js.map": "/static/js/2.124d676c.chunk.js.map",
+    "static/js/3.e6e7e57d.chunk.js": "/static/js/3.e6e7e57d.chunk.js",
+    "static/js/3.e6e7e57d.chunk.js.map": "/static/js/3.e6e7e57d.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.80292ecf.chunk.css.map": "/static/css/main.80292ecf.chunk.css.map",
+    "static/js/2.124d676c.chunk.js.LICENSE.txt": "/static/js/2.124d676c.chunk.js.LICENSE.txt",
+    "static/media/Algonquin.b93cbcfd.jpg": "/static/media/Algonquin.b93cbcfd.jpg",
+    "static/media/MarbleArch.bae6d053.jpg": "/static/media/MarbleArch.bae6d053.jpg",
+    "static/media/ON_Cup_Final_BU13_actionshot.5329d1a4.jpg": "/static/media/ON_Cup_Final_BU13_actionshot.5329d1a4.jpg",
+    "static/media/ProfilePicture2024.f066d97a.jpg": "/static/media/ProfilePicture2024.f066d97a.jpg",
+    "static/media/Utrecht.a6cad161.JPG": "/static/media/Utrecht.a6cad161.JPG",
+    "static/media/ben_matteo_earlscourt.4f4b7b15.jpg": "/static/media/ben_matteo_earlscourt.4f4b7b15.jpg",
+    "static/media/grad_with_dad.91db68b7.jpg": "/static/media/grad_with_dad.91db68b7.jpg",
+    "static/media/grange_quote_lam.41c41da9.jpg": "/static/media/grange_quote_lam.41c41da9.jpg",
+    "static/media/on_cup_2024_final.f81144fa.jpg": "/static/media/on_cup_2024_final.f81144fa.jpg",
+    "static/media/on_indoor_cup_u13b_2025_pic3.ea10f424.jpg": "/static/media/on_indoor_cup_u13b_2025_pic3.ea10f424.jpg",
+    "static/media/woodbridge_brian_adrian.7733b9da.jpg": "/static/media/woodbridge_brian_adrian.7733b9da.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.077807ea.js",
+    "static/js/2.124d676c.chunk.js",
+    "static/css/main.80292ecf.chunk.css",
+    "static/js/main.e060898a.chunk.js"
+  ]
+}
